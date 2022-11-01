@@ -53,7 +53,7 @@ const TextImage = () => {
     return (
         <TextWrapper className={meme.state.imageSelected ? 'active' : ''}>
             <Title as="h3" fsize="1.5" margin="0 0 1rem">
-                Set your text here
+                Set Your Text Here
             </Title>
 
             {/* Top Text */}
